@@ -1,0 +1,16 @@
+{
+  "name": "get-unique-value-csv",
+  "version": "1.0.0",
+  "description": "filter multiple csv files and return unique values to one file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "array-to-txt-file": "^1.0.2",
+    "csv-parser": "^3.0.0",
+    "normalize-strings": "^1.1.1"
+  }
+}

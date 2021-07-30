@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# data
+/input/*
+/output/*
+
+# keep the empty data dirs
+!/input/.gitkeep
+!/output/.gitkeep
